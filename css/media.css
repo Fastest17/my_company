@@ -119,4 +119,16 @@
         display: none;
     }
 
+    .contact-wrapper{
+        width: 70%;
+    }
+    .form-input{
+        
+        display: block;
+    }
+    input{
+        width: 100%;
+    }
+
+
 }
